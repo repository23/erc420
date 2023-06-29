@@ -1,8 +1,3 @@
-/*
-Twitter: https://twitter.com/erc42069
-Telegram: https://t.me/erc420gateway
-*/
-
 // SPDX-License-Identifier: No License
 
 pragma solidity 0.8.7;
